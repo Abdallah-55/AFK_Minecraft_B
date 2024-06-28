@@ -8,7 +8,7 @@ const persist = require('node-persist');
 const botConfigs = [
   {
     host: 'donutsmp.net',
-    username: 'yossefman123@gmail.com',
+    username: 'abdoram999@gmail.com',
     auth: 'microsoft'
   }
   
